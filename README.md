@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MOHAMMAD YUNUS
-- 👀 I’m interested in `Development`
+- 👀 I’m interested in `CODEING`
 - 💬 Ask me about *Python,Java,Web Development,basic DataScience* 
 - 🌱 I’m currently learning DataScience and Machine Learning
 - 📫 How to reach me : **md.yunus.9291@gmail.com**
